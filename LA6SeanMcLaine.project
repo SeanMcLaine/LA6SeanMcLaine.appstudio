@@ -62,14 +62,6 @@
             "NewControls3",
             "NewControls3.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "NewControls4",
-            "NewControls4.json"
-          ]
         }
       ],
       "configxml": null,
